@@ -23,7 +23,7 @@ pipeline {
         }
         stage('Completed new job') {
             steps {
-               echo "Group 2 has something special!"
+               echo "Abdou did it again!"
             }
         }
     }
